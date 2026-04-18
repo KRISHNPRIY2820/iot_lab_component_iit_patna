@@ -74,7 +74,7 @@ Download from: https://www.arduino.cc/en/software
 Run your training script:
 
 ```bash
-python train_model.py
+python Software_1.ipynb
 ```
 
 ---
@@ -134,25 +134,13 @@ temperature,humidity,pressure,gas
 
 * Model expects **scaled inputs (handled internally or before deployment)**
 
----
 
-## 📂 Project Structure
 
-```
-project/
-│
-├── train_model.py
-├── transfer.py
-├── arduino_code.ino
-├── climate_micro.tflite
-├── README.md
-```
 
 ---
 
 ## 🔗 GitHub Repository
 
-(Add your repository link here)
 
 ```
 (https://github.com/KRISHNPRIY2820/iot_lab_component_iit_patna)
