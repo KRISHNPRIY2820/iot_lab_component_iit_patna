@@ -111,7 +111,7 @@ Data is uploaded to ThingSpeak using API.
 ## ▶️ How to Run
 
 ```bash
-python sensor.py
+python Hardware_file2_sensor.py
 ```
 
 ---
